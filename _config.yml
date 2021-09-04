@@ -111,7 +111,7 @@ post_search: true
 #footer-link-col: "#008AFF"
 
 navbar-col: "#101b32"
-navbar-text-col: "#0c2f50"
+navbar-text-col: "#e1f1fd"
 navbar-border-col: "#1a2c4a"
 page-col: "#e1f1fd"
 text-col: "#404040"
